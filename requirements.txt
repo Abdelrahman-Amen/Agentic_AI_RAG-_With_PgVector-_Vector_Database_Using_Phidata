@@ -1,0 +1,13 @@
+lancedb 
+pypdf
+PyPDF2
+python-dotenv
+pgvector
+psycopg[binary]
+groq
+phidata
+sqlalchemy
+# phi
+streamlit
+sqlalchemy 
+fastapi[standard]
